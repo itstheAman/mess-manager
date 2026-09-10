@@ -1,0 +1,6 @@
+{
+  "name": "আদর্শ মেস - Adarsha Mess",
+  "description": "আদর্শ মেস — ডিজিটাল মেস ম্যানেজমেন্ট সিস্টেম। দৈনিক মিল হিসাব, বাজার, চাল ও ভুষি খরচ, জমা এবং স্বয়ংক্রিয় মাসিক হিসাব।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
